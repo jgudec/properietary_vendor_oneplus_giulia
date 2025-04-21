@@ -25,27 +25,27 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-	name: "CFR_imx581",
+	name: "CFR_imx355",
 	owner: "oneplus",
-	src: "proprietary/odm/etc/camera/cfr_bin/CFR_imx581.bin",
+	src: "proprietary/odm/etc/camera/cfr_bin/CFR_imx355.bin",
 	filename_from_src: true,
 	sub_dir: "camera/cfr_bin",
 	device_specific: true,
 }
 
 prebuilt_etc {
-	name: "CFR_lyt808",
+	name: "CFR_s5kjn5_giulia",
 	owner: "oneplus",
-	src: "proprietary/odm/etc/camera/cfr_bin/CFR_lyt808.bin",
+	src: "proprietary/odm/etc/camera/cfr_bin/CFR_s5kjn5_giulia.bin",
 	filename_from_src: true,
 	sub_dir: "camera/cfr_bin",
 	device_specific: true,
 }
 
 prebuilt_etc {
-	name: "CFR_ov64b40_tele",
+	name: "CFR_imx906",
 	owner: "oneplus",
-	src: "proprietary/odm/etc/camera/cfr_bin/CFR_ov64b40_tele.bin",
+	src: "proprietary/odm/etc/camera/cfr_bin/CFR_imx906.bin",
 	filename_from_src: true,
 	sub_dir: "camera/cfr_bin",
 	device_specific: true,
