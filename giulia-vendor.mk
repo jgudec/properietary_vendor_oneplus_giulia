@@ -30,8 +30,17 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/giulia/proprietary/odm/etc/camera/settings_fdc.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/settings_fdc.txt \
     vendor/oneplus/giulia/proprietary/odm/etc/camera/settings_fdc_lite.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/settings_fdc_lite.txt \
     vendor/oneplus/giulia/proprietary/odm/etc/display/qdcm_calib_data_AA577_P_3_A0020_dsc_cmd_mode_panel.json:$(TARGET_COPY_OUT_ODM)/etc/display/qdcm_calib_data_AA577_P_3_A0020_dsc_cmd_mode_panel.json \
-    vendor/oneplus/giulia/proprietary/odm/etc/iris_configs.xml:$(TARGET_COPY_OUT_ODM)/etc/iris_configs.xml \
-    vendor/oneplus/giulia/proprietary/odm/etc/iris_page_i7.json:$(TARGET_COPY_OUT_ODM)/etc/iris_page_i7.json \
+    vendor/oneplus/giulia/proprietary/odm/etc/displaycolorfeaturecfg.xml:$(TARGET_COPY_OUT_ODM)/etc/displaycolorfeaturecfg.xml \\
+    vendor/oneplus/giulia/proprietary/odm/etc/p_3_a0020_backlight_data.xml:$(TARGET_COPY_OUT_ODM)/etc/p_3_a0020_backlight_data.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/p_3_a0020_cinema_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/p_3_a0020_cinema_eyeprotect_data.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/p_3_a0020_colorful_eyeprotect_datav.xml:$(TARGET_COPY_OUT_ODM)/etc/p_3_a0020_colorful_eyeprotect_datav.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/p_3_a0020_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/p_3_a0020_eyeprotect_data.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/p_3_a0020_srgb_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/p_3_a0020_srgb_eyeprotect_data.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/plugin_config.xml:$(TARGET_COPY_OUT_ODM)/etc/plugin_config.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/samsung1024_s6e3hc3_cinema_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_s6e3hc3_cinema_eyeprotect_data.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/samsung1024_s6e3hc3_colorful_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_s6e3hc3_colorful_eyeprotect_data.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/samsung1024_s6e3hc3_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_s6e3hc3_eyeprotect_data.xml \
+    vendor/oneplus/giulia/proprietary/odm/etc/samsung1024_s6e3hc3_srgb_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_s6e3hc3_srgb_eyeprotect_data.xml \
     vendor/oneplus/giulia/proprietary/odm/etc/PanelChaplin/AA577_P_3_A0020_dsc_cmd_mode_panel_Vivid_pGC.txt$(TARGET_COPY_OUT_ODM):/etc/PanelChaplin/AA577_P_3_A0020_dsc_cmd_mode_panel_Vivid_pGC.txt \
     vendor/oneplus/giulia/proprietary/odm/etc/PanelChaplin/AA577_P_3_A0020_dsc_cmd_mode_panel_Nature_2nits_pGC.txt$(TARGET_COPY_OUT_ODM):/etc/PanelChaplin/AA577_P_3_A0020_dsc_cmd_mode_panel_Nature_2nits_pGC.txt \
     vendor/oneplus/giulia/proprietary/odm/etc/PanelChaplin/AA577_P_3_A0020_dsc_cmd_mode_panel_EP3_pGC.txt$(TARGET_COPY_OUT_ODM):/etc/PanelChaplin/AA577_P_3_A0020_dsc_cmd_mode_panel_EP3_pGC.txt \
